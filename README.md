@@ -1,5 +1,5 @@
 # Logistic-Regression
-* This repository is made for education purposes.
+* This repository is made for educational purposes.
 * This repository contains a Python implementation of Logistic Regression from scratch and using sklearn.
 * It uses a synthetic toy dataset with one variable.
 ----------------------------------------------------------------------------------------------------------
