@@ -4,6 +4,6 @@
 * It uses a synthetic toy dataset with one variable.
 ----------------------------------------------------------------------------------------------------------
 ## Contents
-1.  (Logistic Regression from Scratch)
+1.  Logistic Regression from Scratch
 2.  Logistic Regression using Scikit learn
 3.  Dataset (Features.csv, Labels.csv)
